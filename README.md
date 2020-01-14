@@ -29,15 +29,17 @@ Push в ветку dev, переход в ветку master
 # ВСР
 ## Задание 4.1
 Стабильная версия в ветке master
+
 ![merge1](merge1.png "merge1")
 
 Создание ветки dev
+
 ![merge2](merge2.png "merge2")
 
 Редактирование файла, commit и push в ветку dev
+
 ![merge3](merge3.png "merge3")
 
 Переход в ветку master, слияние изменений с веткой dev
+
 ![merge4](merge4.png "merge4")
-
-
