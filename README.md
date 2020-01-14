@@ -4,18 +4,23 @@
 # ИСР
 ## Задание 4.1
 Добавление issue
+
 ![git1](git1.png "git1")
 
 Реализация необходимого функционала из issue, коммит в ветку dev
+
 ![git2](git2.png "git2")
 
 Push в ветку dev, переход в ветку master
+
 ![git3](git3.png "git3")
 
 Слияние изменений с веткой dev
+
 ![git4](git4.png "git4")
 
 Закрытие issue
+
 ![git5](git5.png "git5")
 
 ## Задание 4.2
